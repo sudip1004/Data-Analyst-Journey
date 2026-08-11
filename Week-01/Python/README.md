@@ -1,3 +1,3 @@
 # Python
 
-Python practice and notes from Week 01.
+Python practice for Data Analysis.

@@ -1,3 +1,3 @@
 # Notes
 
-Notes from Week 01.
+Learning notes, statistics, and important concepts.

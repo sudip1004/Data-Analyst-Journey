@@ -1,3 +1,3 @@
 # Pandas
 
-Pandas practice and notes from Week 01
+Pandas practice and data analysis exercises.
